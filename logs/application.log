@@ -1,0 +1,16 @@
+2025-02-02 21:15:34 [main] ERROR: Error on Main class,signUp
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1602) ~[?:?]
+	at java.base/java.util.Scanner.nextByte(Scanner.java:2011) ~[?:?]
+	at java.base/java.util.Scanner.nextByte(Scanner.java:1965) ~[?:?]
+	at todoapplication.Main.main(Main.java:48) [classes/:?]
+2025-02-02 21:20:03 [main] ERROR: Error on Main class,signUp
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947) ~[?:?]
+	at java.base/java.util.Scanner.next(Scanner.java:1602) ~[?:?]
+	at java.base/java.util.Scanner.nextByte(Scanner.java:2011) ~[?:?]
+	at java.base/java.util.Scanner.nextByte(Scanner.java:1965) ~[?:?]
+	at todoapplication.Main.main(Main.java:47) [classes/:?]
+2025-02-02 21:20:06 [main] INFO : Unexpected value
+2025-02-02 21:31:17 [main] INFO : Unexpected value
